@@ -1,11 +1,11 @@
 # TDD Intro Kata
 Work with your pair, using the Ping Pong technique.
 
-Setup:
-    Python3: `pip3 install -r requirements.txt`
+Setup:  
+    Python3: `pip3 install -r requirements.txt`  
     Python2: `pip install -r requirements.txt`
 
-Run tests:
+Run tests:  
 `pytest`
 
 ## The Kata
